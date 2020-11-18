@@ -1,2 +1,2 @@
 # scraping
-
+vinegre.py, es un primer exemple de l'ús de la llibrebria BeautifulSoup de Python, a partir de una URL d'una coneguda tenda de vins, obtenim un JSON amb tota la informació relativa a tots els vins negres en venda. A part de l'estructura del DOM de la pàgina, tenim en compte la paginació del producte, amb 24 productes per pàgina. Com no tinc molt clara la legalitat del scraping, oculte el domini de la web.
