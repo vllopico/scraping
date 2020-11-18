@@ -42,7 +42,7 @@ while pagina <= num_pag:
 		
 	pagina = pagina + 1
 		
-with open('vins_negres.json', 'w') as file:
+with open('vinegre.json', 'w') as file:
     json.dump(cataleg_vins, file, indent=4, ensure_ascii=False)
 
 end = time.time()
